@@ -9,7 +9,7 @@ Browser-based password vault with localStorage persistence.
 - Responsive neon-themed UI
 
 ## Demo
-Open `manager.html` in any browser.
+Open `index.html` in any browser.
 
 ## Tech Stack
 HTML | CSS | Vanilla JavaScript | localStorage
